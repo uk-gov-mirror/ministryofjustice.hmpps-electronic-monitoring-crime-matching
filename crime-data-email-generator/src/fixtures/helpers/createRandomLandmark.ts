@@ -1,6 +1,6 @@
 import faker from '../../faker'
 
-const landmarks = [
+export const landmarks = [
   { latitude: 51.501364, longitude: -0.14189, name: 'Buckingham Palace' },
   { latitude: 51.5033, longitude: -0.1195, name: 'London Eye' },
   { latitude: 51.5155, longitude: -0.1419, name: 'Oxford Circus' },
